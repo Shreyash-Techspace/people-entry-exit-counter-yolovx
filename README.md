@@ -63,6 +63,14 @@ The annotated and augmented dataset in YOLOv8 format used for training and testi
 
 ---
 
+## Roboflow Dataset
+
+The dataset used for training and augmentation was managed using Roboflow.
+
+[View Roboflow Dataset](https://universe.roboflow.com/shreyashs-workspace-zijct/entry-exit-counting-fz9gk)
+
+---
+
 ## Project Structure
 
 ```bash id="0n7p2d"
