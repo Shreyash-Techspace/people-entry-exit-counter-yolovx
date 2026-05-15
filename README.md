@@ -9,7 +9,7 @@ The project focuses on accurate real-time human detection and counting with effi
 ---
 
 ## Demo Video 
-[Watch Project Demo](https://drive.google.com/file/d/15R_8EsZnuSM0H6wfTywRTqsR225cSR-C/view?usp=drive_link)
+[Watch Project Demo](https://drive.google.com/file/d/192rZVHiZvv4twVxG90PZLGhgTeWnOHdp/view?usp=sharing)
 
 ## Features
 
@@ -59,7 +59,7 @@ The project focuses on accurate real-time human detection and counting with effi
 
 The annotated and augmented dataset in YOLOv8 format used for training and testing is available below:
 
-[Download Dataset](https://drive.google.com/file/d/1PzN1fHsPOuNZBOhDOQHcgw6jwgLoM7EG/view?usp=drive_link)
+[Download Dataset](https://drive.google.com/file/d/16fW-V8cCZak-6AfCryIb7kXuQlrWJvwD/view?usp=drive_link)
 
 ---
 
